@@ -50,9 +50,7 @@ body {
   }
   
  
-  footer {
-    text-align: center;
-  }
+  
   .left-cont{
     
     width: 40%;
@@ -89,3 +87,12 @@ body {
   #education h2{
     margin-bottom: 15px;
   }
+
+  #about p{
+    text-transform: none;
+  }
+ 
+
+#experience h4{
+  margin: 15px 0;
+}
